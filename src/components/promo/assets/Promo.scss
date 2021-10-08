@@ -1,0 +1,104 @@
+@import '../../../variables/Variables.scss';
+
+.promo-top {
+    // border: 1px solid $black;
+    margin-bottom: 10px;
+    height: 500px;
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+    color: $black;
+    background-color: white;
+    box-shadow: 30px 30px 30px rgba(150, 149, 149, 0.3);
+
+    .promo-top-left{
+        background-color:$yellow;
+        display: grid;
+        grid-template-rows: 2fr 1fr;
+        padding: 20px;
+        // border-right: 1px solid $black;
+        color: $black;
+        h1{
+            font-family: $oswald;
+            font-size: 50px;
+            font-weight: 600;
+        }
+        .promo-top-left-buttom{
+            display: flex;
+            flex-direction: column;
+            justify-content: space-between;
+            p{
+                font-family: $oswald;
+                font-weight: 600;
+                font-size: 32px;
+            }
+            span{
+                font-family: $montserrat;
+                font-weight: 500;
+                font-size: 20px;
+            }
+            button{
+                background-color: $yellow;
+                height: 50px;
+                width: 164px;
+                border: 1px solid $black;
+                font-family: $oswald;
+                font-weight: 600;
+                font-size: 20px;
+                color: $black;
+
+            }
+        }
+
+    }
+    .promo-top-right{
+        // border-right: 1px solid black;
+    }
+}
+
+.promo-bottom {
+    margin-top: 20px;
+    margin-bottom: 10px;
+    height: 500px;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    // background-color: white;
+        .promo-bottom-elem{
+        display: grid;
+        grid-template-rows: 2fr 1fr;
+        padding: 20px;
+        color: $black;
+        h1{
+            font-family: $oswald;
+            font-size: 50px;
+            font-weight: 600;
+        }
+        .promo-top-left-buttom{
+            display: flex;
+            flex-direction: column;
+            justify-content: space-between;
+            p{
+                font-family: $oswald;
+                font-weight: 600;
+                font-size: 32px;
+            }
+            span{
+                font-family: $montserrat;
+                font-weight: 500;
+                font-size: 20px;
+            }
+            button{
+                background-color: $yellow;
+                height: 50px;
+                width: 164px;
+                border: 1px solid $yellow;
+                color: $black;
+                font-family: $oswald;
+                font-weight: 600;
+                font-size: 20px;
+                box-shadow: 2px 2px 5px rgba(119, 118, 118, 0.3);
+
+
+            }
+        }
+    }
+}

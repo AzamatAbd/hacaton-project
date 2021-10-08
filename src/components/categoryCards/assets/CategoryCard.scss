@@ -1,0 +1,32 @@
+@import '../../../variables/Variables.scss';
+.category-card{
+    margin: 10px;
+    margin-bottom: 30px;
+    display: grid;
+    grid-template-rows: 60px 1fr;
+    height: 300px;
+    color: $black;
+    background-color: white;
+    box-shadow: 10px 10px 20px rgba(150, 149, 149, 0.3);
+
+    .category-card-content{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        background-color: $yellow;
+        p{
+            font-family: $oswald;
+            font-weight: 600;
+            font-size: 24px;
+        }
+    }
+    img{
+        height: 180px;
+        margin: auto;
+        background-size: contain;
+        background-color: white;
+    }
+}
+
+
+

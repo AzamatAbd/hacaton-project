@@ -1,0 +1,39 @@
+@import '../../../variables/Variables.scss';
+.product-card{
+    margin: 10px;
+    display: grid;
+    grid-template-rows: 3fr 1fr;
+    // border: 1px solid black;
+    height: 500px;
+    color: $black;
+    background-color: white;
+    box-shadow: 5px 10px 20px rgba(150, 149, 149, 0.3);
+
+    .card-content{
+        display: flex;
+        flex-direction: column;
+        justify-content: flex-end;
+        padding: 20px;
+        background-color: $yellow;
+        p{
+    
+            font-family: $montserrat;
+            font-size: 16px;
+        }
+        span{
+            margin-top: 20px;
+            font-family: $oswald;
+            font-weight: 600;
+            font-size: 24px;
+        }
+    }
+    img{
+        width: 320px;
+        margin: auto;
+        background-size: contain;
+        background-color: white;
+    }
+}
+
+
+

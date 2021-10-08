@@ -1,0 +1,129 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,900&family=Oswald:wght@200;300;400;500;600;700&display=swap");
+.promo-top {
+  margin-bottom: 10px;
+  height: 500px;
+  display: -ms-grid;
+  display: grid;
+  -ms-grid-columns: 1fr 2fr;
+      grid-template-columns: 1fr 2fr;
+  color: #1c1c1f;
+  background-color: white;
+  -webkit-box-shadow: 30px 30px 30px rgba(150, 149, 149, 0.3);
+          box-shadow: 30px 30px 30px rgba(150, 149, 149, 0.3);
+}
+
+.promo-top .promo-top-left {
+  background-color: #FBB615;
+  display: -ms-grid;
+  display: grid;
+  -ms-grid-rows: 2fr 1fr;
+      grid-template-rows: 2fr 1fr;
+  padding: 20px;
+  color: #1c1c1f;
+}
+
+.promo-top .promo-top-left h1 {
+  font-family: "Oswald", sans-serif;
+  font-size: 50px;
+  font-weight: 600;
+}
+
+.promo-top .promo-top-left .promo-top-left-buttom {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+}
+
+.promo-top .promo-top-left .promo-top-left-buttom p {
+  font-family: "Oswald", sans-serif;
+  font-weight: 600;
+  font-size: 32px;
+}
+
+.promo-top .promo-top-left .promo-top-left-buttom span {
+  font-family: "Montserrat", sans-serif;
+  font-weight: 500;
+  font-size: 20px;
+}
+
+.promo-top .promo-top-left .promo-top-left-buttom button {
+  background-color: #FBB615;
+  height: 50px;
+  width: 164px;
+  border: 1px solid #1c1c1f;
+  font-family: "Oswald", sans-serif;
+  font-weight: 600;
+  font-size: 20px;
+  color: #1c1c1f;
+}
+
+.promo-bottom {
+  margin-top: 20px;
+  margin-bottom: 10px;
+  height: 500px;
+  display: -ms-grid;
+  display: grid;
+  -ms-grid-columns: 1fr 1fr 1fr;
+      grid-template-columns: 1fr 1fr 1fr;
+}
+
+.promo-bottom .promo-bottom-elem {
+  display: -ms-grid;
+  display: grid;
+  -ms-grid-rows: 2fr 1fr;
+      grid-template-rows: 2fr 1fr;
+  padding: 20px;
+  color: #1c1c1f;
+}
+
+.promo-bottom .promo-bottom-elem h1 {
+  font-family: "Oswald", sans-serif;
+  font-size: 50px;
+  font-weight: 600;
+}
+
+.promo-bottom .promo-bottom-elem .promo-top-left-buttom {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+}
+
+.promo-bottom .promo-bottom-elem .promo-top-left-buttom p {
+  font-family: "Oswald", sans-serif;
+  font-weight: 600;
+  font-size: 32px;
+}
+
+.promo-bottom .promo-bottom-elem .promo-top-left-buttom span {
+  font-family: "Montserrat", sans-serif;
+  font-weight: 500;
+  font-size: 20px;
+}
+
+.promo-bottom .promo-bottom-elem .promo-top-left-buttom button {
+  background-color: #FBB615;
+  height: 50px;
+  width: 164px;
+  border: 1px solid #FBB615;
+  color: #1c1c1f;
+  font-family: "Oswald", sans-serif;
+  font-weight: 600;
+  font-size: 20px;
+  -webkit-box-shadow: 2px 2px 5px rgba(119, 118, 118, 0.3);
+          box-shadow: 2px 2px 5px rgba(119, 118, 118, 0.3);
+}
+/*# sourceMappingURL=Promo.css.map */

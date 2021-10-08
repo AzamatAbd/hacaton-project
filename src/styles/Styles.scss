@@ -1,0 +1,24 @@
+@import '../variables/Variables.scss';
+@import '../components/header/assets/NavBar.css';
+@import '../components/promo/assets/Promo.css';
+@import '../components/productCard/assets/ProductCard.css';
+@import '../pages/products/assets/Products.css';
+@import '../components/categoryCards/assets/CategoryCard.css';
+@import '../pages/category/assets/Category.css';
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    display: grid;
+    // background-color: rgb(241, 241, 241);
+    // grid-template-columns: 5% 1fr 5%;
+}
+
+.container {
+    width: 90%;
+    margin: 0 auto;
+}

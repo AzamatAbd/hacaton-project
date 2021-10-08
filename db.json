@@ -1,0 +1,81 @@
+{
+  "products": [
+    {
+      "category": "Аккумуляторные отвертки",
+      "title": "Отвертка аккумуляторная WORX WX252",
+      "description": "Производитель:BOSCH Реверс:да Максимальный крутящий момент:5 Н·м Устройство аккумулятора:встроенный Напряжение аккумулятора:3.6 В Емкость аккумулятора:1.5 А·ч",
+      "price": 3990,
+      "photo": "https://avatars.mds.yandex.net/get-mpic/4754204/img_id7101289284873424694.jpeg/orig",
+      "id": "DCoQp0-"
+    },
+    {
+      "category": "Аккумуляторные отвертки",
+      "title": "Аккумуляторная отвертка BOSCH IXO 6 colour",
+      "description": "Производитель:BOSCH Реверс:да Максимальный крутящий момент:4.5 Н·м Устройство аккумулятора:встроенный Напряжение аккумулятора:3.6 В Емкость аккумулятора:1.5 А·ч",
+      "price": 3290,
+      "photo": "https://avatars.mds.yandex.net/get-mpic/5214322/img_id1829670437711762219.jpeg/orig",
+      "id": "aI-EUAx"
+    },
+    {
+      "category": "Аккумуляторные отвертки",
+      "title": "Отвертка Xiaomi Wowstick SD Lithium ScrewDriver 36 в 1",
+      "description": "Производитель:Xiaomi Не подделка и не копия, 100% оригинальный товар! Xiaomi Wowstick SD Lithium ScrewDriver 36 в 1",
+      "price": 4490,
+      "photo": "https://avatars.mds.yandex.net/get-mpic/5320264/img_id3494381718314693693.jpeg/orig",
+      "id": "r6tdU6L"
+    },
+    {
+      "category": "Аккумуляторные отвертки",
+      "title": "Отвертка аккумуляторная Интерскол ОА-3,6Ф (433.0.2.00), 3,6 В, 1,3 Ач Li-ion, блистер",
+      "description": "Производитель:Интерскол Реверс:да Максимальный крутящий момент:5 Н·м Устройство аккумулятора:встроенный Напряжение аккумулятора:3.6 В Емкость аккумулятора:1.3 А·ч Отвертка аккумуляторная Интерскол ОА-3,6Ф (433.0.2.00), 3,6 В, 1,3 Ач Li-ion, блистер",
+      "price": 1890,
+      "photo": "https://avatars.mds.yandex.net/get-mpic/4334579/img_id5339061699054704637.jpeg/orig",
+      "id": "3A8oEs1"
+    },
+    {
+      "category": "Аккумуляторные отвертки",
+      "title": "Аккумуляторная отвертка Xiaomi MiJia Electric Screwdriver Gun",
+      "description": "реверс напряжение аккумулятора: 3.6 В емкость аккумулятора 2 А·ч тип аккумулятора: Li-Ion тип патрона: под биты особенности конструкции: лампа точечной подсветки упаковка: кейс вес 0.35 кг дополнительно в комплекте: биты",
+      "price": 2390,
+      "photo": "https://avatars.mds.yandex.net/get-mpic/5214322/img_id5064343618357309090.jpeg/orig",
+      "id": "xTy3Zry"
+    }
+  ],
+  "category": [
+    {
+      "title": "Аккумуляторные отвертки",
+      "photo": "https://cdnmedia.220-volt.ru/content/products/657/657152/images/original/n140x130_q75/1.jpeg",
+      "id": "1s8MFP7"
+    },
+    {
+      "title": "Перфораторы",
+      "photo": "https://avatars.mds.yandex.net/get-mpic/4776349/img_id4682403782460830037.jpeg/orig",
+      "id": "VWJYbjA"
+    },
+    {
+      "title": "Перфораторы",
+      "photo": "https://avatars.mds.yandex.net/get-mpic/4984138/img_id7982581177541308402.jpeg/13hq",
+      "id": "iclA2hN"
+    },
+    {
+      "title": "Электролобзик",
+      "photo": "https://avatars.mds.yandex.net/get-mpic/4936002/img_id5164217022166543359.jpeg/orig",
+      "id": "5LYuODj"
+    },
+    {
+      "title": "УШМ",
+      "photo": "https://avatars.mds.yandex.net/get-mpic/4728959/img_id7132031975561539858.jpeg/orig",
+      "id": "ar_w_zN"
+    },
+    {
+      "title": "Заточные станки",
+      "photo": "https://avatars.mds.yandex.net/get-mpic/4465823/img_id5684005909779553863.jpeg/orig",
+      "id": "QKwNiYH"
+    },
+    {
+      "title": "Штроборезы",
+      "photo": "https://avatars.mds.yandex.net/get-mpic/5238069/img_id3729315684122482753.jpeg/orig",
+      "id": "_0Pcj0B"
+    }
+  ]
+}

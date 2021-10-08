@@ -1,0 +1,24 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,900&family=Oswald:wght@200;300;400;500;600;700&display=swap");
+@import url(c:\Users\DELL\Desktop\MAKERS\project\src\components\header\assets\NavBar.css);
+@import url(c:\Users\DELL\Desktop\MAKERS\project\src\components\promo\assets\Promo.css);
+@import url(c:\Users\DELL\Desktop\MAKERS\project\src\components\productCard\assets\ProductCard.css);
+@import url(c:\Users\DELL\Desktop\MAKERS\project\src\pages\products\assets\Products.css);
+@import url(c:\Users\DELL\Desktop\MAKERS\project\src\components\categoryCards\assets\CategoryCard.css);
+@import url(c:\Users\DELL\Desktop\MAKERS\project\src\pages\category\assets\Category.css);
+* {
+  padding: 0;
+  margin: 0;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+body {
+  display: -ms-grid;
+  display: grid;
+}
+
+.container {
+  width: 90%;
+  margin: 0 auto;
+}
+/*# sourceMappingURL=Styles.css.map */

@@ -1,0 +1,15 @@
+.content{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center
+}
+
+.content-block{
+    width: 90%;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    align-items: center;
+    justify-content: space-around
+
+}
